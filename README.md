@@ -102,7 +102,7 @@
 Background image:
 https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.pexels.com%2Fsearch%2Fmountain%2520background%2F&psig=AOvVaw3kbRVWrGWFE1F1ZzatjrOq&ust=1747935993264000&source=images&cd=vfe&opi=89978449&ved=0CBYQjRxqFwoTCKjHspSPtY0DFQAAAAAdAAAAABAn)
 
-X-Men image:
+Icon image:
 https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.menshealth.com%2Fentertainment%2Fa34773910%2Fx-men-movie-order%2F&psig=AOvVaw2ldcTVfbYTjRs34kqN2iiS&ust=1747758677875000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqFwoTCNithMv6r40DFQAAAAAdAAAAABAE
 
 Code reference:
